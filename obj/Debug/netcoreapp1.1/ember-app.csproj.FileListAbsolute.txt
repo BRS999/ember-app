@@ -1,0 +1,8 @@
+C:\Users\ben\Source\Repos\ember-app\bin\Debug\netcoreapp1.1\ember-app.deps.json
+C:\Users\ben\Source\Repos\ember-app\bin\Debug\netcoreapp1.1\ember-app.runtimeconfig.json
+C:\Users\ben\Source\Repos\ember-app\bin\Debug\netcoreapp1.1\ember-app.runtimeconfig.dev.json
+C:\Users\ben\Source\Repos\ember-app\bin\Debug\netcoreapp1.1\ember-app.dll
+C:\Users\ben\Source\Repos\ember-app\bin\Debug\netcoreapp1.1\ember-app.pdb
+C:\Users\ben\Source\Repos\ember-app\obj\Debug\netcoreapp1.1\ember-app.AssemblyInfo.cs
+C:\Users\ben\Source\Repos\ember-app\obj\Debug\netcoreapp1.1\ember-app.dll
+C:\Users\ben\Source\Repos\ember-app\obj\Debug\netcoreapp1.1\ember-app.pdb

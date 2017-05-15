@@ -1,0 +1,1 @@
+This is a sample Ember app build using Ember, Bootstrap, and Dotnet Core.
